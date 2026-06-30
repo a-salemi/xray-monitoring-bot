@@ -18,7 +18,7 @@
 برای نصب این سیستم روی سرور اوبونتو/دبیان خود، کافیست دستور زیر را با دسترسی `root` در ترمینال وارد کنید:
 
 ```bash
-bash <(curl -Ls [https://raw.githubusercontent.com/a-salemi/xray-monitoring-bot/main/install.sh](https://raw.githubusercontent.com/a-salemi/xray-monitoring-bot/main/install.sh))
+bash <(curl -Ls (https://raw.githubusercontent.com/a-salemi/xray-monitoring-bot/main/install.sh))
 ```
 
 *(در طول نصب، اسکریپت از شما **توکن ربات تلگرام** و **آیدی عددی اکانت شما** را برای تنظیمات امنیتی درخواست می‌کند).*
