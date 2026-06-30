@@ -8,7 +8,7 @@
 
 echo -e "\e[36m=========================================\e[0m"
 echo -e "\e[1;36m  Xray Monitoring Bot Installer\e[0m"
-echo -e "\e[1;34m  By: Amir Salemi\e[0m"
+echo -e "\e[1;34m  By: Amir Salemi | @a1_sL \e[0m"
 echo -e "\e[36m=========================================\e[0m"
 sleep 2
 
